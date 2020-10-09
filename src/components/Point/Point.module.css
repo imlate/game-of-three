@@ -1,0 +1,12 @@
+.Point {
+  height: 3.5rem;
+  width: 3.5rem;
+  background: #1E8FE1;
+  border-radius: 1.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #FFFFFF;
+  font-size: 1.13rem;
+  line-height: 1.3rem;
+}

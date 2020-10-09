@@ -1,0 +1,24 @@
+.Header {
+  height: 4rem;
+  background: #1E8FE1;
+  color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.5);
+}
+
+.OpponentNameContainer {
+  height: 42px;
+  margin-left: 1rem;
+}
+
+.OpponentName {
+  font-size: 1.1rem;
+  line-height: 1.55rem;
+}
+
+.Slogan {
+  font-size: 0.65rem;
+  line-height: 0.9rem;
+}

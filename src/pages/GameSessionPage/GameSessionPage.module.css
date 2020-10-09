@@ -1,0 +1,24 @@
+.GameSessionPage {
+  background: #FFF5F7FA;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.GameContainer {
+  overflow: auto;
+}
+
+.Game {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 1rem;
+  margin: auto;
+}
+
+@media screen and (min-width: 30rem) {
+  .Game {
+    width: 30rem;
+  }
+}
